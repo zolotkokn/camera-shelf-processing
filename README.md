@@ -58,9 +58,8 @@ getDataShelfProcessing(`task${schedule.id}-${target_rack_id}`).then((data) => {
 
 <h3>Примеры экранов</h3>
 
-
-![скриншот](https://github.com/zolotkokn/camera-shelf-processing/blob/main/images/img1.png)
-![скриншот](https://github.com/zolotkokn/camera-shelf-processing/blob/main/images/img2.png)
-![скриншот](https://github.com/zolotkokn/camera-shelf-processing/blob/main/images/img3.png)
-![скриншот](https://github.com/zolotkokn/camera-shelf-processing/raw/main/images/img4.png)
+<img src="https://raw.githubusercontent.com/zolotkokn/camera-shelf-processing/main/images/img1.PNG" width="300 "/>
+<img src="https://raw.githubusercontent.com/zolotkokn/camera-shelf-processing/main/images/img2.PNG" width="300 "/>
+<img src="https://raw.githubusercontent.com/zolotkokn/camera-shelf-processing/main/images/img3.PNG" width="300 "/>
+<img src="https://raw.githubusercontent.com/zolotkokn/camera-shelf-processing/main/images/img4.PNG" width="300 "/>
 
