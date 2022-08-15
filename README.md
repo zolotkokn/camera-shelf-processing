@@ -55,3 +55,10 @@ getDataShelfProcessing(`task${schedule.id}-${target_rack_id}`).then((data) => {
     points={points}
 />
 ```
+
+<h3>Примеры экранов</h3>
+
+<img src="/images/img1.png" />
+<img src="/images/img2.png" />
+<img src="/images/img3.png" />
+<img src="/images/img4.png" />
